@@ -1,0 +1,3 @@
+set "wall=#"
+set "earth= "
+
